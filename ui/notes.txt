@@ -1,0 +1,33 @@
+Web app start in home page {
+
+	if user have an token {
+		check token {guest = resend to login page || first time resend to sing up || admin resend to admin page}
+	}
+
+
+}
+
+back end dev tools {
+
+	php
+	
+}
+
+User-InterFace {
+	
+	html - css - js [or Jequury]
+}
+
+front {
+	Vue-js For Control and help to manger the web app
+}
+
+Api {
+
+	use json to transfer data from ui to server 
+}
+
+
+database {
+	mySql
+}
